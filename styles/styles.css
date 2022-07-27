@@ -213,6 +213,10 @@ main {
   color: var(--clr-primary-5);
   text-transform: uppercase;
 }
+.hex-code {
+  color: var(--clr-primary-5);
+  text-transform: uppercase;
+}
 .btn-hero {
   font-family: var(--ff-primary);
   text-transform: uppercase;
